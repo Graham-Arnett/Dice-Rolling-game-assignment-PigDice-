@@ -1,0 +1,14 @@
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.AssemblyInfoInputs.cache
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.AssemblyInfo.cs
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.csproj.CoreCompileInputs.cache
+C:\repos\max\c#\PigDice\PigDice\PigDice\bin\Debug\net8.0\PigDice.exe
+C:\repos\max\c#\PigDice\PigDice\PigDice\bin\Debug\net8.0\PigDice.deps.json
+C:\repos\max\c#\PigDice\PigDice\PigDice\bin\Debug\net8.0\PigDice.runtimeconfig.json
+C:\repos\max\c#\PigDice\PigDice\PigDice\bin\Debug\net8.0\PigDice.dll
+C:\repos\max\c#\PigDice\PigDice\PigDice\bin\Debug\net8.0\PigDice.pdb
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.dll
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\refint\PigDice.dll
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.pdb
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\PigDice.genruntimeconfig.cache
+C:\repos\max\c#\PigDice\PigDice\PigDice\obj\Debug\net8.0\ref\PigDice.dll
